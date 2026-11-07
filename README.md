@@ -46,3 +46,5 @@ Follow these detailed instructions to successfully complete the SentimentScope p
     - Compute test accuracy. The test accuracy should be greater than 75%.
 
 By following these steps, you’ll develop a strong understanding of transformer-based models and their application in real-world NLP tasks. Take each step methodically, and revisit earlier sections if needed for clarity.
+
+Source: [Udacity AWS AI Programmer - Project](https://learn.udacity.com/nd915?version=1.2.13&partKey=6b6efff5-3d3c-4254-86c0-0235febad721&lessonKey=06b579f5-d102-4d63-b264-240ee547dba4&conceptKey=3c98aec9-95b8-4dc4-abea-517b767d868d)
